@@ -7,7 +7,7 @@
 }
 A quick start installation is a simple, standard installation of API Gateway (for example, for a demonstration or proof of concept).
 
-{{< alert title="Note" color="primary" >}}![TEST___TEST ___TEST](/Images/APIGateway/MicrosoftTeams-image.png)
+![TEST\_\_\_TEST \_\_\_TEST](/Images/APIGateway/MicrosoftTeams-image.png)
 
 Windows is supported only for a limited set of developer tools, see [Install developer tools on Windows](/docs/apim_installation/apigtw_install/install_dev_tools/). API Gateway and API Manager do not support Windows.{{< /alert >}}
 
