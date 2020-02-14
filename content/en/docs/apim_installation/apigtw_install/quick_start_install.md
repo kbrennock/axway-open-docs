@@ -1,14 +1,15 @@
 {
-"title": "Quick start installation",
-"linkTitle": "Quick start",
-"weight":"2",
-"date": "2019-10-07",
-"description": "Perform a quick start installation of API Gateway on Linux."
+"title": "Quick start installation - DON'T PUBLISH TRAINING",
+  "linkTitle": "Quick start",
+  "weight": "2",
+  "date": "2019-10-07",
+  "description": "Perform a quick start installation of API Gateway on Linux.\nTEST...TEST....TEST...."
 }
-
 A quick start installation is a simple, standard installation of API Gateway (for example, for a demonstration or proof of concept).
 
-{{< alert title="Note" color="primary" >}}Windows is supported only for a limited set of developer tools, see [Install developer tools on Windows](/docs/apim_installation/apigtw_install/install_dev_tools/). API Gateway and API Manager do not support Windows.{{< /alert >}}
+{{< alert title="Note" color="primary" >}}![TEST___TEST ___TEST](/Images/APIGateway/MicrosoftTeams-image.png)
+
+Windows is supported only for a limited set of developer tools, see [Install developer tools on Windows](/docs/apim_installation/apigtw_install/install_dev_tools/). API Gateway and API Manager do not support Windows.{{< /alert >}}
 
 The API Gateway installer provides a default **Standard** installation option, which installs the following API Gateway components:
 
